@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# 建议顺便把站点地图地址也写上
+Sitemap: https://ps.uztool.com/sitemap.xml
